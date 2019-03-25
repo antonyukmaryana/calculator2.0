@@ -33,7 +33,7 @@ alert(num1 + " * " + num2 + " = " + multiNum(num1,num2));
 
 /*var height = parseFloat(prompt ("Enter Height"));
 var weight = parseFloat(prompt ("Enter Weight"));
-alert("Your BMI is " + BMI( weight, height));*/
+alert("Your BMI is " + BMI( weight, height));
 var celsius = parseFloat(prompt("enter temperature in Celsius"));
 var fahrenheit = celsiusToFahrenheit(celsius);
-alert (celsius + "C = " + fahrenheit + "F");
+alert (celsius + "C = " + fahrenheit + "F");*/
